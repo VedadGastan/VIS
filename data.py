@@ -6,6 +6,7 @@ from selenium.webdriver.edge.service import Service as EdgeService
 from selenium.webdriver.common.by import By
 from selenium.webdriver.edge.options import Options
 import time
+import csv
 
 with open('links.txt', 'r') as file:
     links = file.read().splitlines()
@@ -162,19 +163,4 @@ data = {
 }
 df = pd.DataFrame(data)
 
-dtype = {
-    'Stanje': object,
-    'Pregledi': object,
-    'Cijena': object,
-    'Proizvodjac': object,
-    'Model': object,
-    'Gorivo': object,
-    'Godiste': object,
-    'Transmisija': object,
-    'Kilometraza': object,
-    'Kubikaza': object,
-    'Snaga motora (KW)': object,
-    'Broj vrata': object
-}
-
-df.to_csv('data.csv', index=False, dtype=dtype)
+df.to_csv('data.csv', index=False)

@@ -1,11 +1,6 @@
-Stanje,Pregledi,Proizvodjac,Model,Gorivo,Godiste,Transmisija,Kilometraza,Kubikaza,Snaga motora (KW),Broj vrata
-Koristeno,10631,Audi,Q7,Dizel,2017,Automatik,188.234km,3.0,160,4/5
-Koristeno,916,Volkswagen,Golf,Dizel,2013,Manuelni,280.000km,1.6,77,4/5
-Koristeno,1713,Volkswagen,Golf,Dizel,2014,Manuelni,191.354km,2.0,110,4/5
-Koristeno,2248,Mercedes-Benz,CLS 350,Dizel,2012,Automatik,220.000km,3.0,195,4/5
-Koristeno,5113,Peugeot,107,Benzin,2007,Manuelni,170.123km,1.0,51,2/3
-Koristeno,598,Volkswagen,Golf,Dizel,2013,Manuelni,136.000km,1.6,77,4/5
-Koristeno,87,Volkswagen,Golf,Dizel,2012,Manuelni,130.000km,2.0,103,4/5
-Koristeno,593,Mercedes-Benz,GLC 220,Dizel,2020,Automatik,170.000km,2.0,143,4/5
-Koristeno,3907,Audi,A6,Dizel,2012,Automatik,302.000km,2.0,130,4/5
-Koristeno,630,Mercedes-Benz,B 180,Dizel,2014,Manuelni,230.000km,1.8,80,4/5
+Stanje,Pregledi,Cijena,Proizvodjac,Model,Gorivo,Godiste,Transmisija,Kilometraza,Kubikaza,Snaga motora (KW),Broj vrata
+Koristeno,1212,21950,Audi,A4,Dizel,2013,Manuelni,254000,2.0,130,4/5
+Koristeno,919,5690,Volkswagen,Passat,Dizel,2003,Manuelni,328050,1.9,96,4/5
+Koristeno,677,3999,Opel,Meriva,Plin,2007,Manuelni,259000,1.4,66,4/5
+Koristeno,3601,29500,Audi,Q5,Dizel,2012,Automatik,230000,2.0,125,4/5
+Koristeno,1052,,Mercedes-Benz,ML 350,Dizel,2012,Automatik,150000,3.0,190,4/5
