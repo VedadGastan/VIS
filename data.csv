@@ -1,6 +1,575 @@
 Stanje,Pregledi,Cijena,Proizvodjac,Model,Gorivo,Godiste,Transmisija,Kilometraza,Kubikaza,Snaga motora (KW),Broj vrata
-Koristeno,1212,21950,Audi,A4,Dizel,2013,Manuelni,254000,2.0,130,4/5
-Koristeno,919,5690,Volkswagen,Passat,Dizel,2003,Manuelni,328050,1.9,96,4/5
-Koristeno,677,3999,Opel,Meriva,Plin,2007,Manuelni,259000,1.4,66,4/5
-Koristeno,3601,29500,Audi,Q5,Dizel,2012,Automatik,230000,2.0,125,4/5
-Koristeno,1052,,Mercedes-Benz,ML 350,Dizel,2012,Automatik,150000,3.0,190,4/5
+Koristeno,257.0,15990,Skoda,Octavia,Dizel,2015.0,Manuelni,255000,1.6,81.0,4/5
+Koristeno,1837.0,21950,Audi,A4,Dizel,2013.0,Manuelni,254000,2.0,130.0,4/5
+Koristeno,713.0,23700,Volkswagen,Passat,Dizel,2012.0,Manuelni,177000,2.0,125.0,4/5
+Koristeno,1658.0,25900,Volkswagen,Passat,Dizel,2015.0,Manuelni,200000,2.0,110.0,4/5
+Koristeno,136027.0,137000,Audi,R8,Benzin,2007.0,Automatik,143000,4.2,309.0,2/3
+Koristeno,1108.0,,Volkswagen,Passat,Dizel,2016.0,Manuelni,264000,1.6,88.0,4/5
+Koristeno,1173.0,9300,Skoda,Octavia,Dizel,2010.0,Manuelni,274000,1.6,66.0,4/5
+Koristeno,1538.0,13750,Subaru,Forester,Dizel,2011.0,Manuelni,175000,2.0,110.0,4/5
+Koristeno,8157.0,9900,Volvo,XC 90,Dizel,2005.0,Automatik,360000,2.4,120.0,4/5
+Koristeno,21295.0,34500,Audi,Q5,Dizel,2013.0,Automatik,280000,3.0,180.0,4/5
+Koristeno,3269.0,24999,Volkswagen,Golf,Dizel,2013.0,Manuelni,211000,2.0,110.0,4/5
+Koristeno,1292.0,25999,Audi,A3,Dizel,2016.0,Manuelni,167200,1.6,81.0,4/5
+Koristeno,14229.0,28500,Volkswagen,Golf,Benzin,2010.0,Automatik,258000,2.0,199.0,4/5
+Koristeno,13539.0,,Jeep,Grand Cherokee,Dizel,2016.0,Automatik,211000,3.0,187.0,4/5
+Koristeno,1040.0,4800,Opel,Astra,Benzin,2007.0,Manuelni,221543,1.8,103.0,2/3
+Koristeno,34.0,11500,Skoda,Octavia,Dizel,2011.0,Manuelni,245000,1.6,77.0,4/5
+Koristeno,394.0,10900,Skoda,Yeti,Dizel,2013.0,Manuelni,253125,2.0,81.0,4/5
+Koristeno,17.0,17300,Peugeot,2008,Dizel,2013.0,Manuelni,199000,1.6,84.0,4/5
+Koristeno,2589.0,10500,Volkswagen,Passat,Dizel,2009.0,Manuelni,224000,2.0,81.0,4/5
+Koristeno,1937.0,,Opel,Corsa,Benzin,2012.0,Manuelni,152000,1.6,155.0,2/3
+Koristeno,2058.0,16500,Audi,A4,Dizel,2011.0,Manuelni,321232,2.0,88.0,4/5
+Koristeno,1163.0,18500,Audi,A6,Dizel,2009.0,Automatik,290000,2.0,125.0,4/5
+Koristeno,10580.0,12800,Skoda,Octavia RS,Benzin,2012.0,Manuelni,196000,2.0,147.0,4/5
+Koristeno,776.0,31000,BMW,525,Dizel,2011.0,Automatik,266000,2.5,150.0,4/5
+Koristeno,1941.0,14800,Ford,Fiesta,Benzin,2015.0,Manuelni,104530,1.0,103.0,2/3
+Koristeno,1150.0,12999,Skoda,Yeti,Dizel,2010.0,Manuelni,270000,2.0,81.0,4/5
+Koristeno,117.0,149900,Porsche,Cayenne,Benzin,2019.0,Automatik,24712,3.0,250.0,4/5
+Koristeno,235.0,9999,Skoda,Roomster,Dizel,2011.0,Manuelni,230263,1.6,77.0,4/5
+Koristeno,429.0,,BMW,535,Dizel,2010.0,Automatik,0,3.5,220.0,4/5
+Koristeno,420.0,42300,Nissan,X-Trail,Dizel,2016.0,Manuelni,148200,1.6,96.0,4/5
+Koristeno,4387.0,11400,Skoda,Octavia,Dizel,2010.0,Manuelni,270000,1.6,77.0,4/5
+Koristeno,9367.0,18800,Audi,A5,Benzin,2009.0,Manuelni,350000,2.0,170.0,2/3
+Koristeno,11629.0,18300,Audi,A3,Dizel,2010.0,Automatik,245431,2.0,125.0,4/5
+Koristeno,528.0,16200,Peugeot,4007,Dizel,2008.0,Manuelni,170506,2.2,115.0,4/5
+Koristeno,540.0,79000,Audi,Q7,Dizel,2018.0,Automatik,205000,3.0,200.0,4/5
+Koristeno,7574.0,18300,Audi,A3,Dizel,2012.0,Manuelni,249512,2.0,103.0,4/5
+Koristeno,12730.0,80000,Volkswagen,Golf,Benzin,2023.0,Automatik,3500,2.0,180.0,4/5
+Koristeno,80.0,,Renault,Megane,Dizel,2018.0,Manuelni,93932,1.5,66.0,4/5
+Koristeno,1249.0,11850,Volkswagen,Passat,Dizel,2009.0,Manuelni,248111,2.0,103.0,4/5
+Koristeno,2176.0,12200,Volkswagen,Passat,Dizel,2010.0,Manuelni,258451,2.0,81.0,4/5
+Koristeno,81.0,,Renault,Megane,Dizel,2018.0,Manuelni,93932,1.5,66.0,4/5
+Koristeno,1250.0,11850,Volkswagen,Passat,Dizel,2009.0,Manuelni,248111,2.0,103.0,4/5
+Koristeno,2177.0,12200,Volkswagen,Passat,Dizel,2010.0,Manuelni,258451,2.0,81.0,4/5
+Koristeno,462.0,4400,Seat,Toledo,Dizel,2002.0,Manuelni,247000,1.9,81.0,4/5
+Koristeno,1821.0,,Volkswagen,Touareg,Dizel,2018.0,Automatik,150000,3.0,210.0,4/5
+Koristeno,691.0,52980,Skoda,Karoq,Dizel,2020.0,Automatik,84564,2.0,110.0,4/5
+Koristeno,761.0,84900,Audi,A6,Dizel,2018.0,Automatik,150000,3.0,210.0,4/5
+Koristeno,4660.0,17700,Volkswagen,Passat,Dizel,2011.0,Manuelni,203000,1.6,77.0,4/5
+Koristeno,1536.0,22750,Audi,A5,Dizel,2011.0,Manuelni,253621,2.0,105.0,4/5
+Koristeno,26699.0,44000,Audi,A4,Dizel,2019.0,Automatik,169000,2.0,110.0,4/5
+Koristeno,524.0,2500,Audi,A3,Dizel,2005.0,Manuelni,315212,1.5,74.0,4/5
+Koristeno,2390.0,15950,Ford,Kuga,Dizel,2012.0,Manuelni,229213,2.0,103.0,4/5
+Koristeno,8560.0,21500,Audi,A4,Dizel,2011.0,Manuelni,285450,2.0,100.0,4/5
+Koristeno,3149.0,25990,Peugeot,308,Dizel,2019.0,Automatik,171104,1.5,96.0,4/5
+Koristeno,1782.0,31500,Volkswagen,Golf,Benzin,2013.0,Manuelni,245000,2.0,165.0,4/5
+Koristeno,19960.0,26400,Toyota,Land Cruiser,Dizel,2003.0,Manuelni,305000,3.0,120.0,4/5
+Koristeno,9284.0,7400,Dacia,Sandero,Plin,2013.0,Manuelni,160000,1.2,55.0,4/5
+Koristeno,9950.0,11000,Peugeot,5008,Dizel,2013.0,Manuelni,420000,2.0,100.0,4/5
+Koristeno,1084.0,22000,Mercedes-Benz,E 350,Dizel,2009.0,Automatik,250000,3.5,176.0,4/5
+Koristeno,3805.0,10450,Skoda,Fabia,Dizel,2011.0,Manuelni,248634,1.6,77.0,4/5
+Koristeno,9692.0,44900,Volkswagen,Passat,Dizel,2019.0,Automatik,181000,2.0,140.0,4/5
+Koristeno,271.0,68980,Volvo,XC40,Dizel,2019.0,Automatik,104442,2.0,140.0,4/5
+Koristeno,4405.0,33000,Volkswagen,Passat,Dizel,2018.0,Automatik,245000,2.0,110.0,4/5
+Koristeno,9052.0,22450,Volkswagen,Golf,Dizel,2016.0,Manuelni,277000,1.6,81.0,4/5
+Koristeno,2212.0,6950,Volkswagen,Golf,Dizel,2004.0,Manuelni,280900,1.9,66.0,4/5
+Koristeno,4949.0,15550,Skoda,Yeti,Dizel,2010.0,Manuelni,181000,2.0,81.0,4/5
+Koristeno,5045.0,10950,Seat,Exeo,Dizel,2009.0,Manuelni,270000,2.0,103.0,4/5
+Koristeno,12707.0,35950,Audi,Q5,Dizel,2012.0,Automatik,246000,2.0,130.0,4/5
+Koristeno,11304.0,21500,Mercedes-Benz,C 200,Dizel,2011.0,Manuelni,240000,2.0,100.0,4/5
+Koristeno,102.0,15350,Volkswagen,Passat,Dizel,2012.0,Automatik,258153,2.0,103.0,4/5
+Koristeno,21087.0,148900,Mercedes-Benz,GLE 400,Dizel,2020.0,Automatik,137860,3.0,243.0,4/5
+Koristeno,3313.0,,Skoda,Fabia,Dizel,2011.0,Manuelni,190000,1.2,55.0,4/5
+Koristeno,11055.0,11350,Volkswagen,Passat,Dizel,2010.0,Automatik,233854,2.0,103.0,4/5
+Koristeno,1396.0,43950,Volvo,XC40,Dizel,2019.0,Automatik,247000,2.0,140.0,4/5
+Koristeno,99.0,,Citroen,C3,Dizel,2017.0,Manuelni,108000,1.6,55.0,4/5
+Koristeno,1877.0,14500,Volkswagen,Golf,Dizel,2009.0,Automatik,261450,2.0,81.0,4/5
+Koristeno,430.0,10700,BMW,118,Dizel,2009.0,Manuelni,300000,2.0,105.0,4/5
+Koristeno,5164.0,11800,Volkswagen,Passat,Dizel,2010.0,Manuelni,270000,2.0,103.0,4/5
+Novo,22852.0,"69140,35",Audi,A4,Benzin,2024.0,Automatik,0,2.0,110.0,4/5
+Koristeno,431.0,10700,BMW,118,Dizel,2009.0,Manuelni,300000,2.0,105.0,4/5
+Koristeno,5165.0,11800,Volkswagen,Passat,Dizel,2010.0,Manuelni,270000,2.0,103.0,4/5
+Novo,22853.0,"69140,35",Audi,A4,Benzin,2024.0,Automatik,0,2.0,110.0,4/5
+Koristeno,937.0,26200,Volkswagen,Golf,Dizel,2018.0,Manuelni,126540,1.6,85.0,4/5
+Koristeno,304.0,36000,BMW,530,Dizel,2013.0,Automatik,260000,3.0,190.0,4/5
+Novo,25976.0,85900,Audi,A3,Benzin,2023.0,Automatik,0,1.5,110.0,4/5
+Koristeno,21554.0,58500,Mercedes-Benz,E 220,Dizel,2016.0,Automatik,86000,2.0,143.0,4/5
+Koristeno,6700.0,35700,Mercedes-Benz,GLA 220,Dizel,2014.0,Automatik,175000,2.0,125.0,4/5
+Koristeno,13318.0,,Porsche,Cayenne,Benzin,2015.0,Automatik,132000,3.6,324.0,4/5
+Koristeno,7289.0,15850,Volkswagen,Golf,Dizel,2011.0,Manuelni,249651,2.0,103.0,4/5
+Koristeno,1277.0,10750,Renault,Clio,Dizel,2013.0,Manuelni,240000,1.5,55.0,4/5
+Koristeno,5767.0,,Volkswagen,Passat,Dizel,2015.0,Manuelni,245000,2.0,110.0,4/5
+Koristeno,74.0,11500,Volkswagen,Polo,Dizel,2010.0,Manuelni,200000,1.6,55.0,4/5
+Koristeno,3693.0,30000,Skoda,Superb,Dizel,2015.0,Automatik,247000,2.0,110.0,4/5
+Koristeno,133.0,33450,Audi,A3,Dizel,2018.0,Automatik,159000,1.6,85.0,4/5
+Koristeno,1112.0,21900,Volkswagen,Golf,Dizel,2014.0,Automatik,227000,2.0,110.0,4/5
+Koristeno,452.0,13999,Volkswagen,Golf,Dizel,2010.0,Manuelni,250000,2.0,103.0,4/5
+Koristeno,2799.0,39900,Audi,A8,Dizel,2011.0,Automatik,229000,3.0,180.0,4/5
+Koristeno,1748.0,40000,Audi,A6,Dizel,2017.0,Manuelni,197000,2.0,100.0,4/5
+Koristeno,847.0,23200,Ford,Kuga,Dizel,2013.0,Manuelni,202000,2.0,103.0,4/5
+Koristeno,125.0,10500,Volkswagen,Golf,Dizel,2009.0,Manuelni,211000,2.0,81.0,2/3
+Koristeno,1650.0,21000,Volkswagen,Golf,Benzin,2011.0,Manuelni,206485,2.0,155.0,4/5
+Koristeno,813.0,26599,Volkswagen,Passat,Dizel,2016.0,Automatik,220000,2.0,140.0,4/5
+Koristeno,1972.0,16900,Skoda,Octavia,Dizel,2013.0,Manuelni,259000,1.6,77.0,4/5
+Koristeno,1890.0,36000,Mercedes-Benz,Vito,Dizel,2012.0,Automatik,208000,2.2,100.0,4/5
+Koristeno,8268.0,15350,Volkswagen,Golf,Dizel,2012.0,Manuelni,257541,1.6,77.0,4/5
+Koristeno,21472.0,24500,Volkswagen,Tiguan,Dizel,2013.0,Manuelni,226373,2.0,81.0,4/5
+Koristeno,54.0,11700,Volkswagen,Golf,Dizel,2009.0,Manuelni,219867,1.6,77.0,4/5
+Koristeno,334.0,17800,Opel,Corsa,Benzin,2018.0,Automatik,58000,1.4,66.0,4/5
+Koristeno,94.0,4500,Volkswagen,Golf,Benzin,2000.0,Manuelni,312000,1.6,74.0,4/5
+Koristeno,7430.0,14750,Audi,A3,Dizel,2011.0,Manuelni,248531,1.6,77.0,4/5
+Koristeno,6115.0,14950,Audi,A3,Dizel,2011.0,Manuelni,246854,1.6,77.0,4/5
+Koristeno,5551.0,,Volkswagen,Passat,Dizel,2012.0,Automatik,245212,2.0,125.0,4/5
+Koristeno,1162.0,19450,Skoda,Octavia,Dizel,2015.0,Automatik,238000,1.6,81.0,4/5
+Koristeno,1461.0,16900,Skoda,Octavia,Dizel,2015.0,Manuelni,218177,1.6,77.0,4/5
+Koristeno,654.0,8990,Citroen,C3,Dizel,2011.0,Manuelni,207000,1.4,50.0,4/5
+Koristeno,1109.0,21850,Peugeot,2008,Dizel,2019.0,Manuelni,168000,1.5,75.0,4/5
+Koristeno,1835.0,9600,Volkswagen,Polo,Dizel,2013.0,Manuelni,240000,1.2,55.0,2/3
+Koristeno,4986.0,16400,Volkswagen,Touran,Dizel,2012.0,Automatik,290000,1.6,77.0,4/5
+Koristeno,4987.0,16400,Volkswagen,Touran,Dizel,2012.0,Automatik,290000,1.6,77.0,4/5
+Koristeno,101.0,1850,Peugeot,306,Dizel,2001.0,Manuelni,213000,2.0,66.0,4/5
+Koristeno,16008.0,63000,Mercedes-Benz,GLE 350,Dizel,2015.0,Automatik,157000,3.0,190.0,4/5
+Koristeno,418.0,19999,Volkswagen,Tiguan,Dizel,2010.0,Manuelni,244555,2.0,103.0,4/5
+Koristeno,97.0,6500,Renault,Clio,Dizel,2007.0,Manuelni,259000,1.5,63.0,4/5
+Koristeno,4406.0,16900,Ford,Kuga,Dizel,2010.0,Manuelni,224339,2.0,103.0,4/5
+Koristeno,260.0,15350,Volkswagen,Tiguan,Dizel,2010.0,Manuelni,291000,2.0,105.0,4/5
+Koristeno,27334.0,,BMW,530,Dizel,2019.0,Automatik,207000,3.0,183.0,4/5
+Koristeno,943.0,11400,Skoda,Octavia,Dizel,2011.0,Manuelni,223546,1.6,77.0,4/5
+Koristeno,1494.0,9699,Renault,Megane,Dizel,2011.0,Manuelni,305000,1.5,81.0,4/5
+Koristeno,225.0,4650,Volkswagen,Passat,Dizel,2003.0,Manuelni,276288,1.9,74.0,4/5
+Koristeno,11202.0,,Volkswagen,Golf,Dizel,2021.0,Automatik,201000,2.0,85.0,4/5
+Koristeno,4269.0,16500,Audi,A4,Dizel,2009.0,Manuelni,272000,2.0,125.0,4/5
+Koristeno,1535.0,17900,Land Rover,Freelander,Dizel,2010.0,Automatik,233751,2.2,112.0,4/5
+Koristeno,2179.0,90000,Audi,A7,Dizel,2018.0,Automatik,110000,3.0,210.0,4/5
+Koristeno,421.0,17500,Hyundai,ix35,Dizel,2011.0,Manuelni,221131,1.7,85.0,4/5
+Koristeno,3321.0,45900,Skoda,Kodiaq,Dizel,2019.0,Automatik,172827,2.0,110.0,4/5
+Koristeno,18496.0,10499,Volkswagen,Polo,Dizel,2009.0,Manuelni,230000,1.6,55.0,4/5
+Koristeno,4097.0,,Skoda,Superb,Dizel,2018.0,Automatik,202145,2.0,140.0,4/5
+Koristeno,2117.0,,Renault,Kadjar,Dizel,2019.0,Manuelni,198743,1.6,96.0,4/5
+Koristeno,759.0,24900,Skoda,Octavia Scout,Dizel,2015.0,Automatik,178704,2.0,135.0,4/5
+Koristeno,50.0,1800,Ford,Fiesta,Benzin,1994.0,Manuelni,230000,1.1,47.0,4/5
+Koristeno,1485.0,10999,Peugeot,308,Dizel,2012.0,Manuelni,233333,1.6,82.0,4/5
+Koristeno,1457.0,,Fiat,500C,Benzin,2010.0,Manuelni,135000,1.2,59.0,2/3
+Koristeno,58.0,,Peugeot,208,Benzin,2020.0,Manuelni,30503,1.2,55.0,4/5
+Koristeno,1097.0,26900,Audi,A3,Dizel,2014.0,Automatik,277697,2.0,135.0,4/5
+Koristeno,618.0,,Volkswagen,Golf,Benzin,2010.0,Manuelni,195000,1.4,90.0,2/3
+Koristeno,2583.0,18900,BMW,X1,Dizel,2012.0,Manuelni,246793,2.0,105.0,4/5
+Koristeno,633.0,13300,Citroen,Berlingo,Dizel,2011.0,Automatik,174758,1.6,68.0,4/5
+Koristeno,506.0,32990,BMW,530,Dizel,2012.0,Automatik,320000,3.0,190.0,4/5
+Koristeno,1539.0,26500,Audi,A4 Allroad,Dizel,2013.0,Automatik,264129,3.0,180.0,4/5
+Koristeno,2893.0,3999,Skoda,Octavia,Dizel,2000.0,Manuelni,360000,1.9,66.0,4/5
+Koristeno,5360.0,11990,Skoda,Octavia,Dizel,2012.0,Manuelni,267000,1.6,77.0,4/5
+Koristeno,495.0,35980,Skoda,Karoq,Dizel,2018.0,Manuelni,108028,1.6,85.0,4/5
+Koristeno,39802.0,45000,Mercedes-Benz,C 250,Dizel,2016.0,Automatik,280000,2.2,150.0,4/5
+Koristeno,23061.0,,Volkswagen,Tiguan,Dizel,2017.0,Automatik,241000,2.0,140.0,4/5
+Koristeno,1711.0,215000,Porsche,Cayenne,Benzin,2022.0,Automatik,62500,4.0,338.0,4/5
+Koristeno,299.0,43400,Volvo,XC40,Dizel,2019.0,Automatik,189082,2.0,110.0,4/5
+Koristeno,5194.0,17900,Volvo,V40,Benzin,2014.0,Manuelni,210000,1.6,110.0,4/5
+Koristeno,2703.0,18900,Volkswagen,Passat,Dizel,2013.0,Automatik,237000,2.0,130.0,4/5
+Koristeno,44.0,,Volvo,XC 60,Dizel,2023.0,Automatik,10,2.0,145.0,4/5
+Koristeno,1941.0,,Skoda,Scala,Dizel,2019.0,Manuelni,167700,1.6,85.0,4/5
+Koristeno,1599.0,27980,Peugeot,2008,Dizel,2019.0,Manuelni,132057,1.5,75.0,4/5
+Koristeno,3128.0,21900,Skoda,Superb,Dizel,2015.0,Automatik,267000,2.0,125.0,4/5
+Koristeno,634.0,50500,BMW,X5,Dizel,2015.0,Automatik,240000,2.0,160.0,4/5
+Koristeno,3513.0,26980,Peugeot,2008,Dizel,2018.0,Manuelni,99919,1.6,73.0,4/5
+Koristeno,5989.0,22000,Volkswagen,Passat,Dizel,2017.0,Manuelni,218900,1.6,88.0,4/5
+Koristeno,2012.0,24999,Audi,A4,Dizel,2012.0,Automatik,265111,2.0,105.0,4/5
+Koristeno,3919.0,23900,Kia,Sportage,Dizel,2014.0,Automatik,214000,2.0,135.0,4/5
+Koristeno,2841.0,,Volkswagen,Passat,Dizel,2012.0,Automatik,171150,2.0,103.0,4/5
+Koristeno,6774.0,29000,BMW,730,Dizel,2009.0,Automatik,281000,3.0,180.0,4/5
+Koristeno,4037.0,32200,Volkswagen,Golf,Benzin,2014.0,Automatik,220000,2.0,169.0,4/5
+Koristeno,3692.0,75000,Audi,Q7,Dizel,2016.0,Automatik,206000,3.0,160.0,4/5
+Koristeno,7199.0,14900,Skoda,Octavia,Dizel,2014.0,Manuelni,275000,2.0,110.0,4/5
+Koristeno,1112.0,47000,Audi,A6,Dizel,2016.0,Automatik,280000,3.0,200.0,4/5
+Koristeno,44787.0,85000,Mercedes-Benz,E 220,Dizel,2018.0,Automatik,105000,2.2,143.0,2/3
+Koristeno,628.0,14900,Volkswagen,Touran,Dizel,2010.0,Manuelni,251623,2.0,103.0,4/5
+Koristeno,3201.0,47900,Volkswagen,Passat,Dizel,2019.0,Automatik,164000,2.0,140.0,4/5
+Koristeno,18161.0,24900,Audi,A3,Dizel,2013.0,Manuelni,190000,2.0,110.0,4/5
+Koristeno,6991.0,,Volkswagen,Passat,Dizel,2010.0,Manuelni,250000,2.0,103.0,4/5
+Koristeno,1437.0,16900,Audi,A6 Allroad,Dizel,2007.0,Automatik,337000,3.0,171.0,4/5
+Koristeno,229.0,29900,Volkswagen,Passat,Dizel,2016.0,Manuelni,219258,1.6,88.0,4/5
+Koristeno,1611.0,20500,Volkswagen,Golf,Dizel,2013.0,Manuelni,230000,1.6,77.0,4/5
+Koristeno,2804.0,,Volkswagen,Golf,Dizel,2014.0,Manuelni,268000,1.6,81.0,4/5
+Koristeno,171.0,8850,Fiat,Panda,Benzin,2012.0,Manuelni,123700,1.2,51.0,4/5
+Koristeno,886.0,9850,Audi,A6,Benzin,2004.0,Automatik,312000,3.2,188.0,4/5
+Koristeno,482.0,41900,Peugeot,5008,Dizel,2018.0,Manuelni,130000,2.0,140.0,4/5
+Koristeno,101.0,15350,Volkswagen,Golf,Dizel,2011.0,Manuelni,211800,1.6,77.0,4/5
+Koristeno,371.0,20900,Volkswagen,Golf,Dizel,2013.0,Manuelni,193000,1.6,77.0,4/5
+Koristeno,891.0,11900,Opel,Astra,Dizel,2011.0,Automatik,193778,2.0,121.0,4/5
+Koristeno,2792.0,44800,Audi,A6,Dizel,2015.0,Automatik,245000,3.0,170.0,4/5
+Koristeno,16272.0,87000,Mercedes-Benz,S 350,Dizel,2017.0,Automatik,121000,3.0,190.0,4/5
+Koristeno,10256.0,29000,Kia,Sportage,Dizel,2017.0,Manuelni,169000,1.7,104.0,4/5
+Koristeno,7028.0,19900,Audi,A5,Benzin,2009.0,Manuelni,161000,2.0,155.0,2/3
+Koristeno,56.0,15500,Ford,Fiesta,Benzin,2011.0,Manuelni,109000,1.6,88.0,4/5
+Koristeno,562.0,9900,Skoda,Octavia,Dizel,2011.0,Manuelni,246000,1.6,77.0,4/5
+Koristeno,5493.0,11900,Skoda,Rapid,Dizel,2014.0,Manuelni,211000,1.6,66.0,4/5
+Koristeno,3326.0,16500,Skoda,Octavia,Dizel,2014.0,Manuelni,300000,1.6,77.0,4/5
+Koristeno,2139.0,63900,Volvo,XC 90,Dizel,2015.0,Automatik,2,2.0,165.0,4/5
+Koristeno,4457.0,31900.0,Audi,A6,Dizel,2014.0,Automatik,248196,3.0,150.0,4/5
+Koristeno,15391.0,47990.0,Volkswagen,Tiguan,Dizel,2017.0,Automatik,243000,2.0,140.0,4/5
+Koristeno,38213.0,,Mercedes-Benz,E 350,Hibrid,2018.0,Automatik,218800,2.0,155.0,4/5
+Koristeno,440.0,21900.0,Volkswagen,Golf,Dizel,2014.0,Manuelni,225000,1.6,81.0,4/5
+Koristeno,774.0,8999.0,Volkswagen,Passat,Dizel,2005.0,Manuelni,315231,2.0,103.0,4/5
+Koristeno,9487.0,,BMW,116,Dizel,2011.0,Manuelni,236000,1.6,85.0,4/5
+Koristeno,2229.0,11600.0,Skoda,Octavia,Dizel,2010.0,Manuelni,260000,2.0,103.0,4/5
+Koristeno,5255.0,29000.0,Skoda,Octavia,Dizel,2017.0,Automatik,257000,2.0,136.0,4/5
+Koristeno,2260.0,14999.0,Audi,A4,Dizel,2010.0,Manuelni,225000,2.0,105.0,4/5
+Koristeno,36193.0,,Skoda,Superb,Dizel,2020.0,Automatik,162270,2.0,140.0,4/5
+Koristeno,395.0,17900.0,Volkswagen,Golf,Dizel,2015.0,Manuelni,246200,1.6,66.0,4/5
+Koristeno,597.0,66900.0,Audi,Q7,Dizel,2016.0,Automatik,289000,3.0,200.0,4/5
+Koristeno,1368.0,43600.0,Volkswagen,Passat,Dizel,2020.0,Automatik,129670,2.0,110.0,4/5
+Koristeno,5191.0,30500.0,BMW,520,Dizel,2012.0,Automatik,226000,2.0,135.0,4/5
+Koristeno,697.0,45000.0,Porsche,Cayenne,Dizel,2013.0,Automatik,257422,3.0,180.0,4/5
+Koristeno,1562.0,34900.0,Volkswagen,Passat,Dizel,2020.0,Manuelni,196000,2.0,110.0,4/5
+Koristeno,6718.0,21999.0,Skoda,Octavia,Dizel,2016.0,Manuelni,270000,2.0,110.0,4/5
+Koristeno,1449.0,14499.0,Audi,A4,Dizel,2011.0,Manuelni,276600,2.0,105.0,4/5
+Koristeno,124.0,,Hyundai,Tucson,Dizel,2017.0,Automatik,112923,2.0,136.0,4/5
+Koristeno,1455.0,7999.0,Citroen,C1,Benzin,2012.0,Manuelni,197000,1.0,50.0,4/5
+Koristeno,8796.0,,Volkswagen,Passat,Dizel,2012.0,Manuelni,249000,1.6,77.0,4/5
+Koristeno,5089.0,53000.0,Skoda,Kodiaq,Dizel,2017.0,Automatik,160000,2.0,140.0,4/5
+Koristeno,478.0,19999.0,Volkswagen,Golf,Dizel,2013.0,Manuelni,250000,1.6,77.0,4/5
+Koristeno,9518.0,24700.0,Volkswagen,Golf,Dizel,2013.0,Manuelni,181683,2.0,110.0,4/5
+Novo,1921.0,,Mercedes-Benz,CLE 300,Benzin,2024.0,Automatik,3,2.0,190.0,2/3
+Koristeno,248.0,28000.0,Volkswagen,Passat,Dizel,2016.0,Manuelni,228000,1.6,88.0,4/5
+Koristeno,2616.0,31500.0,Mercedes-Benz,CLS 350,Dizel,2012.0,Automatik,220000,3.0,195.0,4/5
+Koristeno,2579.0,7999.0,Ford,Ka / Ka+,Benzin,2015.0,Manuelni,164000,1.2,51.0,2/3
+Koristeno,3161.0,24500.0,Audi,A3,Dizel,2013.0,Manuelni,185809,2.0,110.0,4/5
+Koristeno,1892.0,239980.0,Mercedes-Benz,S 350,Dizel,2022.0,Automatik,113448,2.9,210.0,4/5
+Koristeno,1061.0,16900.0,Volkswagen,Golf,Dizel,2013.0,Manuelni,280000,1.6,77.0,4/5
+Koristeno,7269.0,9500.0,Opel,Insignia,Dizel,2011.0,Manuelni,192000,2.0,96.0,4/5
+Koristeno,785.0,29900.0,Audi,Q5,Dizel,2011.0,Automatik,220000,2.0,103.0,4/5
+Novo,1257.0,,Mercedes-Benz,GLE 450 Coupe,Dizel,2024.0,Automatik,0,3.0,270.0,4/5
+Koristeno,73.0,17500.0,Volkswagen,Golf,Dizel,2014.0,Manuelni,238853,1.6,77.0,4/5
+Koristeno,3012.0,20900.0,Volkswagen,Golf,Dizel,2013.0,Automatik,260000,2.0,110.0,4/5
+Koristeno,10844.0,72000.0,Audi,Q7,Dizel,2017.0,Automatik,188234,3.0,160.0,4/5
+Novo,194.0,,Mercedes-Benz,GLC 220,Dizel,2024.0,Automatik,0,2.0,145.0,4/5
+Koristeno,795.0,12000.0,Volkswagen,Passat,Dizel,2009.0,Manuelni,315000,2.0,125.0,4/5
+Koristeno,5254.0,5650.0,Peugeot,107,Benzin,2007.0,Manuelni,170123,1.0,51.0,2/3
+Koristeno,932.0,23990.0,Volkswagen,Golf,Dizel,2013.0,Manuelni,136000,1.6,77.0,4/5
+Koristeno,547.0,18850.0,Volkswagen,Golf,Dizel,2012.0,Manuelni,130000,2.0,103.0,4/5
+Koristeno,736.0,78900.0,Mercedes-Benz,GLC 220,Dizel,2020.0,Automatik,170000,2.0,143.0,4/5
+Koristeno,2473.0,10100.0,Smart,ForTwo,Benzin,2009.0,Automatik,117000,1.0,45.0,2/3
+Koristeno,2594.0,,Volkswagen,Golf,Dizel,2010.0,Automatik,249000,1.6,77.0,4/5
+Koristeno,938.0,16999.0,Mercedes-Benz,B 200,Dizel,2012.0,Manuelni,270187,2.0,100.0,4/5
+Koristeno,4274.0,28800.0,Audi,A6,Dizel,2012.0,Automatik,302000,2.0,130.0,4/5
+Koristeno,5919.0,31900.0,Audi,Q5,Dizel,2013.0,Automatik,156000,2.0,130.0,4/5
+Koristeno,712.0,21000.0,Mercedes-Benz,B 180,Dizel,2014.0,Manuelni,230000,1.8,80.0,4/5
+Koristeno,283.0,9300.0,Audi,A4,Dizel,2007.0,Manuelni,265018,2.0,103.0,4/5
+Koristeno,705.0,26000.0,Peugeot,308,Dizel,2016.0,Manuelni,142000,2.0,110.0,4/5
+Koristeno,1819.0,8999.0,Renault,Megane,Benzin,2011.0,Manuelni,134000,1.4,96.0,4/5
+Koristeno,653.0,10999.0,Citroen,C3,Dizel,2015.0,Manuelni,192046,1.6,55.0,4/5
+Koristeno,1293.0,11499.0,Citroen,C5,Dizel,2010.0,Manuelni,201000,2.0,103.0,4/5
+Koristeno,1666.0,,Citroen,C3 Picasso,Dizel,2012.0,Manuelni,191941,1.6,82.0,4/5
+Koristeno,752.0,17300.0,Ford,Kuga,Dizel,2011.0,Manuelni,262829,2.0,103.0,4/5
+Koristeno,4213.0,18900.0,Volkswagen,Golf,Dizel,2011.0,Manuelni,230000,2.0,125.0,4/5
+Koristeno,594.0,6600.0,Volkswagen,Passat,Dizel,2005.0,Manuelni,300000,1.9,77.0,4/5
+Koristeno,5182.0,95500.0,Mercedes-Benz,C 220,Dizel,2022.0,Automatik,24000,2.0,147.0,4/5
+Koristeno,773.0,23999.0,Volkswagen,Tiguan,Dizel,2011.0,Manuelni,266000,2.0,103.0,4/5
+Koristeno,15477.0,14300.0,Audi,A6,Dizel,2010.0,Automatik,266000,1.6,77.0,4/5
+Koristeno,995.0,10850.0,Volkswagen,Polo,Dizel,2010.0,Manuelni,237000,1.6,66.0,4/5
+Koristeno,3097.0,,BMW,X4,Dizel,2017.0,Automatik,218000,2.0,140.0,4/5
+Koristeno,348.0,16999.0,Ford,Kuga,Dizel,2010.0,Manuelni,164000,2.0,103.0,4/5
+Koristeno,563.0,13990.0,Volkswagen,Golf,Dizel,2011.0,Manuelni,242000,1.6,77.0,4/5
+Koristeno,3714.0,11500.0,Skoda,Octavia,Dizel,2013.0,Manuelni,215000,1.6,77.0,4/5
+Koristeno,529.0,31500.0,BMW,X5,Plin,2009.0,Automatik,290000,4.8,261.0,4/5
+Koristeno,96.0,12900.0,Volkswagen,Passat,Dizel,2012.0,Manuelni,290000,1.6,77.0,4/5
+Koristeno,311.0,49980.0,Renault,Espace,Dizel,2019.0,Automatik,103413,2.0,147.0,4/5
+Koristeno,622.0,11950.0,Skoda,Octavia,Dizel,2010.0,Manuelni,280000,1.6,77.0,4/5
+Koristeno,2257.0,,Porsche,Panamera,Dizel,2017.0,Automatik,59800,4.0,310.0,4/5
+Koristeno,5253.0,19200.0,Peugeot,308,Dizel,2019.0,Manuelni,189000,1.5,75.0,4/5
+Koristeno,1369.0,,BMW,X3,Dizel,2012.0,Automatik,270000,2.0,135.0,4/5
+Koristeno,1474.0,7800.0,Ford,Focus,Dizel,2010.0,Manuelni,222000,1.6,66.0,4/5
+Koristeno,2505.0,75500.0,Volkswagen,Golf,Benzin,2020.0,Automatik,77000,2.0,180.0,4/5
+Koristeno,593.0,49000.0,Audi,S5,Benzin,2013.0,Automatik,245000,3.0,245.0,4/5
+Koristeno,6496.0,19900.0,BMW,X1,Dizel,2012.0,Automatik,175000,2.0,130.0,4/5
+Koristeno,837.0,25900.0,Volkswagen,Passat,Dizel,2015.0,Manuelni,188000,1.6,88.0,4/5
+Koristeno,1279.0,82000.0,BMW,730,Dizel,2016.0,Automatik,205000,3.0,195.0,4/5
+Koristeno,209.0,14499.0,Audi,A6,Dizel,2010.0,Automatik,240000,2.7,140.0,4/5
+Koristeno,1418.0,95000.0,Mercedes-Benz,E 43 AMG,Benzin,2017.0,Automatik,205000,3.0,295.0,4/5
+Koristeno,89.0,18999.0,Opel,Corsa,Dizel,2020.0,Manuelni,204000,1.5,75.0,4/5
+Koristeno,11512.0,4300.0,Volkswagen,Passat,Dizel,2004.0,Manuelni,315238,1.9,96.0,4/5
+Koristeno,12623.0,53900.0,Audi,A6,Dizel,2017.0,Automatik,216000,3.0,160.0,4/5
+Koristeno,19655.0,89500.0,Porsche,Cayenne,Dizel,2015.0,Automatik,159456,4.2,283.0,4/5
+Koristeno,3785.0,29999.0,Volkswagen,Passat,Dizel,2017.0,Automatik,198000,1.6,88.0,4/5
+Koristeno,689.0,9900.0,Opel,Insignia,Dizel,2010.0,Manuelni,171000,2.0,96.0,4/5
+Koristeno,6874.0,8950.0,Ford,Fiesta,Dizel,2012.0,Manuelni,195000,1.6,70.0,4/5
+Koristeno,316.0,12000.0,Renault,Clio,Dizel,2013.0,Manuelni,229000,1.5,55.0,4/5
+Koristeno,2645.0,42000.0,Mercedes-Benz,Sprinter,Dizel,2015.0,Automatik,245123,2.2,95.0,4/5
+Koristeno,1533.0,37500.0,Audi,Q5,Dizel,2018.0,Manuelni,205000,2.0,110.0,4/5
+Koristeno,893.0,10900.0,Volkswagen,Passat,Dizel,2009.0,Manuelni,270000,2.0,81.0,4/5
+Koristeno,3391.0,19800.0,Volkswagen,Passat,Dizel,2012.0,Automatik,219000,2.0,103.0,4/5
+Koristeno,4009.0,2950.0,BMW,320,Dizel,2001.0,Manuelni,360000,2.0,100.0,4/5
+Koristeno,4655.0,14400.0,Seat,Altea,Dizel,2012.0,Manuelni,280000,2.0,103.0,4/5
+Koristeno,82.0,,Peugeot,2008,Dizel,2020.0,Automatik,100419,1.5,95.0,4/5
+Koristeno,1206.0,34500.0,Audi,A6,Dizel,2012.0,Automatik,250000,3.0,150.0,4/5
+Koristeno,5311.0,17900.0,Mercedes-Benz,E 300,Dizel,2009.0,Automatik,280000,3.0,155.0,4/5
+Koristeno,9507.0,26500.0,Audi,A4,Dizel,2013.0,Automatik,214000,3.0,150.0,4/5
+Koristeno,14576.0,12600.0,Audi,A6,Dizel,2006.0,Automatik,284000,3.0,165.0,4/5
+Koristeno,1420.0,34900.0,Mercedes-Benz,G 290,Dizel,1994.0,Manuelni,0,2.9,0.0,4/5
+Koristeno,485.0,,Citroen,C3,Dizel,2013.0,Manuelni,184000,1.4,50.0,4/5
+Koristeno,4843.0,17800.0,Mercedes-Benz,B 180,Dizel,2012.0,Manuelni,245000,2.0,80.0,4/5
+Koristeno,457.0,26900.0,Audi,Q5,Dizel,2010.0,Automatik,270000,3.0,176.0,4/5
+Koristeno,3179.0,68980.0,Volvo,XC40,Benzin,2023.0,Automatik,1969,2.0,120.0,4/5
+Koristeno,10201.0,56260.0,Volkswagen,Arteon,Dizel,2019.0,Automatik,200000,2.0,110.0,4/5
+Koristeno,1233.0,29900.0,Volvo,V40,Dizel,2019.0,Automatik,144000,2.0,88.0,4/5
+Novo,296.0,29500.0,Citroen,C3,Benzin,2024.0,Manuelni,3,1.2,61.0,4/5
+Koristeno,210.0,73980.0,Volvo,XC40,Dizel,2020.0,Automatik,75192,2.0,140.0,4/5
+Koristeno,1450.0,29000.0,Audi,Q5,Dizel,2011.0,Automatik,221000,3.0,176.0,4/5
+Koristeno,3596.0,21800.0,BMW,318,Dizel,2012.0,Manuelni,269000,2.0,105.0,4/5
+Koristeno,1895.0,13800.0,Skoda,Yeti,Dizel,2010.0,Manuelni,229000,2.0,81.0,4/5
+Koristeno,8996.0,48980.0,Volkswagen,Golf,Dizel,2019.0,Automatik,109477,2.0,110.0,4/5
+Koristeno,4954.0,12900.0,Skoda,Octavia,Dizel,2011.0,Manuelni,289000,1.6,77.0,4/5
+Koristeno,2718.0,53900.0,Volkswagen,Tiguan,Dizel,2018.0,Automatik,177000,2.0,140.0,4/5
+Koristeno,4264.0,49900.0,Volvo,XC40,Dizel,2018.0,Automatik,106231,2.0,140.0,4/5
+Koristeno,99.0,7150.0,Peugeot,107,Benzin,2011.0,Manuelni,199354,1.0,50.0,4/5
+Koristeno,1942.0,14650.0,Mercedes-Benz,C 220,Dizel,2012.0,Manuelni,365000,2.2,100.0,4/5
+Koristeno,610.0,18400.0,Volkswagen,Golf,Dizel,2013.0,Manuelni,225000,1.6,77.0,4/5
+Novo,8000.0,,Skoda,Superb,Dizel,2023.0,Automatik,0,2.0,147.0,4/5
+Koristeno,16035.0,35500.0,BMW,530,Dizel,2012.0,Automatik,253375,3.0,190.0,4/5
+Koristeno,5502.0,,Zastava,Yugo Koral,Benzin,1989.0,Manuelni,79000,1.1,40.0,2/3
+Koristeno,735.0,18800.0,Nissan,Qashqai,Dizel,2011.0,Automatik,235806,2.0,110.0,4/5
+Koristeno,341.0,169000.0,Porsche,Cayenne,Benzin,2019.0,Automatik,90000,3.0,250.0,4/5
+Koristeno,181.0,9999.0,Fiat,Sedici,Dizel,2010.0,Manuelni,200000,2.0,92.0,4/5
+Koristeno,18575.0,21500.0,Nissan,Qashqai+2,Dizel,2013.0,Automatik,184256,2.0,110.0,4/5
+Koristeno,1809.0,26900.0,Volkswagen,Touran,Dizel,2016.0,Automatik,254500,2.0,110.0,4/5
+Koristeno,6263.0,12500.0,Peugeot,308,Dizel,2010.0,Manuelni,230000,2.0,103.0,2/3
+Koristeno,3861.0,27000.0,Volkswagen,Golf,Benzin,2011.0,Automatik,275000,2.0,199.0,4/5
+Koristeno,5364.0,7950.0,Skoda,Octavia,Benzin,2010.0,Manuelni,204519,1.2,77.0,4/5
+Koristeno,5513.0,34980.0,Peugeot,3008,Dizel,2018.0,Automatik,169511,1.5,96.0,4/5
+Koristeno,8445.0,79990.0,Volkswagen,Touareg,Dizel,2018.0,Automatik,254000,3.0,210.0,4/5
+Koristeno,1232.0,9500.0,Volkswagen,Golf,Dizel,2009.0,Manuelni,240000,2.0,81.0,4/5
+Koristeno,95.0,36900.0,Peugeot,3008,Dizel,2019.0,Automatik,156000,1.5,96.0,4/5
+Koristeno,837.0,2500.0,Renault,Scenic,Dizel,2005.0,Manuelni,251431,1.5,74.0,4/5
+Koristeno,1921.0,28950.0,Ford,Mondeo,Dizel,2019.0,Manuelni,180000,2.0,110.0,4/5
+Koristeno,6930.0,44990.0,Audi,SQ5,Dizel,2014.0,Automatik,214400,3.0,230.0,4/5
+Koristeno,2493.0,5950.0,Skoda,Octavia,Dizel,2002.0,Manuelni,322000,1.9,66.0,4/5
+Koristeno,1830.0,11300.0,Volkswagen,Golf,Dizel,2011.0,Manuelni,240000,1.6,77.0,4/5
+Koristeno,867.0,9400.0,Opel,Insignia,Dizel,2009.0,Manuelni,225450,2.0,96.0,4/5
+Koristeno,5283.0,16990.0,Mercedes-Benz,B 180,Dizel,2012.0,Manuelni,281600,1.8,80.0,4/5
+Koristeno,1285.0,9990.0,Volkswagen,Golf,Dizel,2012.0,Manuelni,234000,1.6,77.0,4/5
+Koristeno,1825.0,30000.0,Peugeot,Partner,Dizel,2020.0,Manuelni,100000,1.5,96.0,4/5
+Koristeno,157.0,18800.0,Citroen,C4 Cactus,Dizel,2015.0,Automatik,184000,1.6,68.0,4/5
+Koristeno,68.0,,Mercedes-Benz,E 220,Dizel,2017.0,Automatik,162000,2.2,143.0,4/5
+Koristeno,998.0,17900.0,Volkswagen,Passat CC,Dizel,2010.0,Manuelni,295000,2.0,103.0,4/5
+Koristeno,1813.0,31500.0,Audi,Q3,Dizel,2012.0,Automatik,186500,2.0,130.0,4/5
+Koristeno,5497.0,11300.0,Volkswagen,Golf,Dizel,2010.0,Manuelni,255000,1.6,77.0,4/5
+Koristeno,1078.0,68500.0,BMW,520,Dizel,2018.0,Automatik,127565,2.0,140.0,4/5
+Koristeno,2145.0,21900.0,BMW,520,Dizel,2010.0,Manuelni,269000,2.0,135.0,4/5
+Koristeno,6123.0,,Peugeot,208,Dizel,2013.0,Manuelni,117000,1.4,50.0,4/5
+Koristeno,4058.0,18600.0,Volkswagen,Golf,Dizel,2013.0,Manuelni,208443,1.6,77.0,4/5
+Koristeno,76.0,,Volvo,XC 60,Dizel,2021.0,Automatik,82221,2.0,145.0,4/5
+Koristeno,2297.0,23800.0,Volkswagen,Golf,Dizel,2019.0,Manuelni,218000,1.6,85.0,4/5
+Koristeno,3827.0,5200.0,Opel,Astra,Dizel,2005.0,Manuelni,302000,1.7,74.0,4/5
+Koristeno,7817.0,13500.0,Volkswagen,Golf,Dizel,2012.0,Manuelni,230000,1.6,77.0,4/5
+Novo,16223.0,,Mercedes-Benz,SL 63 AMG,Benzin,2024.0,Automatik,0,4.0,430.0,2/3
+Koristeno,2610.0,34000.0,Toyota,RAV 4,Dizel,2015.0,Automatik,196000,2.2,110.0,4/5
+Koristeno,269.0,,Citroen,C3,Benzin,2017.0,Manuelni,265000,1.2,60.0,4/5
+Koristeno,580.0,,Citroen,C3,Dizel,2013.0,Manuelni,143000,1.4,50.0,4/5
+Koristeno,10471.0,26500.0,Skoda,Octavia,Dizel,2019.0,Automatik,178000,2.0,110.0,4/5
+Koristeno,276.0,7300.0,Volkswagen,Golf,Dizel,2007.0,Manuelni,280000,2.0,103.0,4/5
+Koristeno,740.0,,Mercedes-Benz,E 220,Dizel,2003.0,Automatik,219123,2.2,110.0,4/5
+Koristeno,2066.0,33000.0,Volkswagen,Touareg,Dizel,2012.0,Automatik,217000,3.0,150.0,4/5
+Koristeno,2013.0,16500.0,Ford,Escort,Dizel,2006.0,Manuelni,190000,2.5,92.0,4/5
+Koristeno,404.0,10999.0,Citroen,C3,Benzin,2010.0,Manuelni,113000,1.4,70.0,4/5
+Koristeno,602.0,,Volkswagen,Polo,Benzin,2014.0,Manuelni,123000,1.2,66.0,4/5
+Koristeno,344.0,,Renault,Captur,Dizel,2014.0,Manuelni,185000,1.5,66.0,4/5
+Koristeno,940.0,,Audi,A1,Benzin,2013.0,Manuelni,155000,1.2,63.0,4/5
+Koristeno,1640.0,14800.0,Audi,A4,Dizel,2009.0,Manuelni,243300,2.0,105.0,4/5
+Koristeno,322.0,11900.0,Opel,Astra,Dizel,2011.0,Manuelni,156000,1.7,81.0,4/5
+Koristeno,605.0,21550.0,Volkswagen,Passat,Dizel,2011.0,Manuelni,260000,2.0,103.0,4/5
+Koristeno,875.0,42900.0,Skoda,Karoq,Dizel,2020.0,Automatik,173000,2.0,110.0,4/5
+Koristeno,9792.0,126000.0,Mercedes-Benz,S 500,Benzin,2015.0,Automatik,107000,5.0,335.0,2/3
+Koristeno,23576.0,21000.0,BMW,316,Dizel,2014.0,Manuelni,225000,2.0,85.0,4/5
+Koristeno,5671.0,15299.0,Skoda,Octavia,Dizel,2010.0,Manuelni,244321,2.0,103.0,4/5
+Koristeno,1847.0,,Skoda,Octavia,Dizel,2006.0,Manuelni,300000,1.9,77.0,4/5
+Koristeno,443.0,12990.0,Audi,A6,Dizel,2008.0,Manuelni,248321,2.7,132.0,4/5
+Koristeno,2099.0,,Audi,A6,Dizel,2015.0,Automatik,205000,3.0,160.0,4/5
+Koristeno,6567.0,37990.0,Seat,Ateca,Dizel,2016.0,Automatik,237600,2.0,140.0,4/5
+Koristeno,4894.0,44999.0,Porsche,Cayenne,Dizel,2011.0,Automatik,290000,3.0,176.0,4/5
+Koristeno,18801.0,6900.0,Peugeot,407,Dizel,2007.0,Automatik,241000,2.7,150.0,2/3
+Koristeno,285.0,9999.0,Volkswagen,Passat,Dizel,2009.0,Manuelni,246123,2.0,81.0,4/5
+Koristeno,6591.0,31990.0,Ford,Kuga,Dizel,2017.0,Manuelni,193000,2.0,110.0,4/5
+Koristeno,1009.0,11900.0,Volkswagen,Golf,Dizel,2012.0,Manuelni,285000,1.6,77.0,2/3
+Koristeno,2601.0,6999.0,Ford,Focus,Dizel,2009.0,Manuelni,216000,1.6,66.0,4/5
+Koristeno,9058.0,26800.0,Volkswagen,Passat CC,Dizel,2016.0,Automatik,268000,2.0,110.0,4/5
+Koristeno,319.0,,Audi,Q5,Dizel,2012.0,Manuelni,269000,2.0,130.0,4/5
+Koristeno,30135.0,13680.0,Skoda,Octavia,Dizel,2010.0,Automatik,288000,1.6,77.0,4/5
+Koristeno,339.0,11850.0,Skoda,Octavia,Dizel,2013.0,Manuelni,293000,1.6,77.0,4/5
+Koristeno,867.0,35980.0,Mazda,6,Benzin,2018.0,Automatik,55733,2.0,121.0,4/5
+Koristeno,3058.0,68700.0,Toyota,RAV 4,Hibrid,2022.0,Automatik,51000,2.5,131.0,4/5
+Koristeno,2332.0,23900.0,Volkswagen,Golf,Dizel,2017.0,Manuelni,241000,1.6,77.0,4/5
+Koristeno,2152.0,13999.0,Citroen,C5,Dizel,2014.0,Automatik,199000,1.6,84.0,4/5
+Koristeno,1206.0,18900.0,BMW,320,Dizel,2012.0,Automatik,256000,2.0,135.0,4/5
+Koristeno,206.0,,Peugeot,208,Dizel,2018.0,Manuelni,130000,1.6,55.0,4/5
+Koristeno,1326.0,9900.0,Citroen,C3,Dizel,2013.0,Manuelni,164000,1.4,50.0,4/5
+Koristeno,2266.0,15900.0,Skoda,Octavia Scout,Dizel,2011.0,Automatik,240000,2.0,103.0,4/5
+Koristeno,2691.0,13600.0,Suzuki,SX4,Dizel,2012.0,Manuelni,261000,2.0,99.0,4/5
+Koristeno,2632.0,4300.0,Skoda,Fabia,Dizel,2011.0,Manuelni,162961,1.2,55.0,4/5
+Koristeno,5322.0,22950.0,Opel,Insignia,Dizel,2018.0,Manuelni,175000,1.6,81.0,4/5
+Koristeno,808.0,19900.0,Skoda,Yeti,Dizel,2012.0,Automatik,238000,2.0,103.0,4/5
+Koristeno,10003.0,59900.0,Jeep,Wrangler,Benzin,2016.0,,105000,3.6,209.0,2/3
+Koristeno,817.0,20100.0,Skoda,Octavia,Dizel,2017.0,Automatik,223000,1.6,81.0,4/5
+Koristeno,586.0,34900.0,Skoda,Karoq,Dizel,2020.0,Automatik,206034,1.6,85.0,4/5
+Koristeno,7751.0,37800.0,Volkswagen,Golf,Dizel,2017.0,Manuelni,191000,2.0,135.0,4/5
+Koristeno,27081.0,15000.0,BMW,116,Benzin,2013.0,Manuelni,157000,1.6,100.0,4/5
+Koristeno,1126.0,16250.0,Skoda,Octavia,Dizel,2013.0,Manuelni,240000,2.0,110.0,4/5
+Koristeno,264.0,9800.0,Seat,Ibiza,Dizel,2011.0,Manuelni,218000,1.6,77.0,4/5
+Koristeno,18694.0,93500.0,Porsche,Macan,Benzin,2018.0,Automatik,73000,3.0,250.0,4/5
+Koristeno,21800.0,35900.0,Audi,A4,Dizel,2016.0,Automatik,268000,3.0,160.0,4/5
+Koristeno,2697.0,35980.0,Opel,Insignia,Dizel,2019.0,Automatik,100218,1.6,100.0,4/5
+Koristeno,2894.0,20900.0,Audi,A6,Dizel,2009.0,Manuelni,190000,2.0,130.0,4/5
+Koristeno,11307.0,14999.0,Skoda,Fabia,Benzin,2019.0,Manuelni,145000,1.0,44.0,4/5
+Koristeno,178.0,36500.0,Audi,Q5,Dizel,2014.0,Manuelni,178000,2.0,110.0,4/5
+Koristeno,9825.0,62980.0,Volvo,XC 90,Dizel,2017.0,Automatik,181467,2.0,173.0,4/5
+Koristeno,17205.0,20000.0,BMW,X5,Dizel,2008.0,Automatik,297000,3.0,174.0,4/5
+Koristeno,121.0,16500.0,Volkswagen,Passat,Dizel,2012.0,Automatik,230000,2.0,103.0,4/5
+Koristeno,12434.0,45000.0,BMW,535,Dizel,2014.0,Automatik,354000,3.0,230.0,4/5
+Koristeno,2394.0,11500.0,Ford,Fiesta,Benzin,2014.0,Manuelni,168000,1.2,59.0,4/5
+Koristeno,1404.0,7000.0,Mazda,6,Dizel,2010.0,Manuelni,269400,2.2,120.0,4/5
+Koristeno,2676.0,17900.0,Volkswagen,Golf,Dizel,2012.0,Manuelni,279000,2.0,125.0,4/5
+Koristeno,5511.0,41900.0,Skoda,Octavia,Dizel,2021.0,Automatik,80000,2.0,85.0,4/5
+Koristeno,1259.0,33450.0,Volkswagen,Passat,Dizel,2017.0,Automatik,184000,2.0,110.0,4/5
+Koristeno,142.0,50000.0,Jaguar,F-Pace,Dizel,2017.0,Automatik,183000,2.0,132.0,4/5
+Koristeno,8472.0,8800.0,Skoda,Octavia,Dizel,2006.0,Manuelni,193200,1.9,66.0,4/5
+Koristeno,4853.0,29980.0,Mercedes-Benz,B 180,Dizel,2017.0,Automatik,126265,1.5,80.0,4/5
+Koristeno,1228.0,34900.0,Skoda,Superb,Dizel,2016.0,Automatik,319000,2.0,140.0,4/5
+Koristeno,199.0,16700.0,Seat,Ibiza,Benzin,2018.0,Manuelni,148999,1.0,85.0,4/5
+Koristeno,7402.0,26980.0,Volvo,V40,Dizel,2018.0,Manuelni,122949,2.0,88.0,4/5
+Koristeno,11368.0,41900.0,Volkswagen,Passat Alltrack,Dizel,2015.0,Automatik,260000,2.0,176.0,4/5
+Koristeno,6857.0,20980.0,Volvo,S60,Dizel,2015.0,Automatik,231699,2.0,110.0,4/5
+Koristeno,11355.0,61900.0,Audi,A6,Dizel,2015.0,Automatik,2,3.0,240.0,4/5
+Koristeno,2912.0,8900.0,Peugeot,308,Dizel,2013.0,Manuelni,230000,1.6,68.0,4/5
+Koristeno,1498.0,56980.0,Volvo,XC40,Dizel,2018.0,Automatik,111287,2.0,110.0,4/5
+Koristeno,979.0,42000.0,BMW,X6,Dizel,2009.0,Automatik,340000,3.0,155.0,4/5
+Koristeno,2047.0,40980.0,Seat,Ateca,Dizel,2020.0,Automatik,116042,1.6,85.0,4/5
+Koristeno,48528.0,70000.0,Ford,Mustang,Benzin,2015.0,Manuelni,81000,5.0,320.0,4/5
+Koristeno,82.0,6800.0,Peugeot,207,Benzin,2008.0,Manuelni,223000,1.6,88.0,2/3
+Koristeno,6856.0,29980.0,Mazda,3,Benzin,2018.0,Manuelni,69634,2.0,88.0,4/5
+Koristeno,1453.0,12500.0,Audi,A6,Dizel,2006.0,Manuelni,330000,2.0,103.0,4/5
+Koristeno,9193.0,13800.0,Skoda,Yeti,Dizel,2011.0,Manuelni,192500,2.0,81.0,4/5
+Koristeno,2470.0,13400.0,Volkswagen,Golf,Dizel,2010.0,Manuelni,202000,1.6,77.0,4/5
+Koristeno,879.0,10500.0,BMW,320,Dizel,2005.0,Manuelni,260000,2.0,120.0,4/5
+Koristeno,3600.0,,Peugeot,308,Dizel,2015.0,Manuelni,218000,1.6,88.0,4/5
+Koristeno,36182.0,16200.0,Audi,A3,Dizel,2012.0,Manuelni,227000,2.0,103.0,4/5
+Koristeno,1897.0,26500.0,Skoda,Octavia,Dizel,2020.0,Manuelni,220000,1.6,88.0,4/5
+Koristeno,1077.0,43980.0,Peugeot,508,Dizel,2019.0,Automatik,91025,2.0,130.0,4/5
+Koristeno,32265.0,,Peugeot,3008,Dizel,2011.0,Manuelni,246000,1.6,82.0,4/5
+Koristeno,1101.0,19500.0,Audi,A5,Benzin,2008.0,Manuelni,220000,1.8,125.0,2/3
+Koristeno,2047.0,,Opel,Corsa,Benzin,2010.0,Manuelni,220000,1.2,51.0,4/5
+Koristeno,1214.0,26999.0,BMW,X3,Dizel,2012.0,Automatik,245000,2.0,135.0,4/5
+Koristeno,1831.0,,Land Rover,Range Rover Evoque,Dizel,2012.0,Manuelni,201000,2.2,140.0,4/5
+Koristeno,241.0,12950.0,BMW,325,Benzin,2006.0,Automatik,290000,2.5,142.0,4/5
+Koristeno,1954.0,29000.0,Volkswagen,Passat,Dizel,2016.0,Manuelni,210653,2.0,110.0,4/5
+Koristeno,139.0,42500.0,BMW,X1,Dizel,2017.0,Automatik,146000,2.0,140.0,4/5
+Koristeno,459.0,15900.0,Peugeot,3008,Dizel,2011.0,Automatik,208000,2.0,120.0,4/5
+Koristeno,2429.0,20900.0,Volkswagen,Golf,Dizel,2014.0,Manuelni,250000,1.6,81.0,4/5
+Koristeno,1903.0,,Volkswagen,Sharan,Dizel,2012.0,Manuelni,250000,2.0,1.0,4/5
+Koristeno,997.0,14999.0,Audi,A3,Dizel,2009.0,Manuelni,290000,2.0,103.0,4/5
+Koristeno,4509.0,17900.0,Volkswagen,Touran,Dizel,2017.0,Automatik,600000,2.0,81.0,4/5
+Koristeno,564.0,19999.0,Audi,A5,Dizel,2010.0,Automatik,290000,2.7,140.0,4/5
+Koristeno,2815.0,,BMW,740,Benzin,2009.0,Automatik,200000,3.0,240.0,4/5
+Koristeno,5416.0,30500.0,Audi,Q3,Dizel,2012.0,Manuelni,180000,2.0,103.0,4/5
+Koristeno,5501.0,,BMW,730,Dizel,2010.0,Automatik,299000,3.0,155.0,4/5
+Koristeno,424.0,36900.0,Skoda,Karoq,Dizel,2019.0,Automatik,145620,1.6,85.0,4/5
+Koristeno,81.0,,Opel,Insignia,Dizel,2010.0,Manuelni,250000,2.0,96.0,4/5
+Koristeno,2435.0,,BMW,320,Dizel,2014.0,Automatik,2,2.0,135.0,4/5
+Koristeno,41229.0,12200.0,Volkswagen,Passat,Dizel,2009.0,Manuelni,242846,2.0,125.0,4/5
+Koristeno,9949.0,44000.0,Volkswagen,Passat,Dizel,2017.0,Automatik,211438,2.0,176.0,4/5
+Koristeno,1700.0,22500.0,Volkswagen,Golf,Dizel,2014.0,Manuelni,270000,1.6,77.0,4/5
+Koristeno,9641.0,20900.0,Volkswagen,Tiguan,Dizel,2010.0,Manuelni,228000,2.0,103.0,4/5
+Koristeno,844.0,13400.0,Audi,A4,Dizel,2009.0,Automatik,237854,2.0,105.0,4/5
+Koristeno,403.0,5200.0,Skoda,Fabia,Dizel,2002.0,Manuelni,286000,1.9,47.0,4/5
+Koristeno,2910.0,43900.0,Volkswagen,T-Roc,Dizel,2019.0,Automatik,185000,2.0,110.0,4/5
+Koristeno,3396.0,26900.0,Mercedes-Benz,A 200,Dizel,2013.0,Manuelni,190136,1.8,100.0,4/5
+Koristeno,10187.0,17900.0,Volkswagen,Passat CC,Dizel,2010.0,Manuelni,250000,2.0,103.0,4/5
+Koristeno,509.0,39980.0,Citroen,C5 Aircross,Dizel,2020.0,Automatik,79600,1.5,96.0,4/5
+Koristeno,2005.0,1850.0,Fiat,Punto,Dizel,2001.0,Manuelni,123456,1.9,44.0,2/3
+Koristeno,5719.0,3300.0,Opel,Astra,Benzin,2008.0,Manuelni,218000,1.4,66.0,4/5
+Koristeno,16739.0,31500.0,Volkswagen,Passat,Dizel,2018.0,Manuelni,68000,1.6,88.0,4/5
+Koristeno,987.0,6900.0,Audi,A3,Plin,2005.0,Manuelni,324000,1.6,75.0,4/5
+Koristeno,1953.0,17900.0,Volkswagen,Caddy,Dizel,2010.0,Manuelni,178000,1.9,77.0,4/5
+Koristeno,982.0,7900.0,Volkswagen,Touran,Dizel,2005.0,Manuelni,310000,1.9,66.0,4/5
+Koristeno,212.0,11800.0,Peugeot,301,Benzin,2016.0,Manuelni,153500,1.2,60.0,4/5
+Koristeno,775.0,84900.0,Land Rover,Range Rover Velar,Dizel,2018.0,Automatik,125000,2.0,177.0,4/5
+Koristeno,2686.0,79900.0,BMW,740,Dizel,2017.0,Automatik,239000,3.0,235.0,4/5
+Koristeno,3359.0,118000.0,Audi,Q8,Dizel,2018.0,Automatik,159000,3.0,210.0,4/5
+Koristeno,757.0,3100.0,Peugeot,307,Dizel,2003.0,Manuelni,258000,2.0,79.0,4/5
+Koristeno,2917.0,29300.0,BMW,530,Dizel,2011.0,Automatik,218000,3.0,190.0,4/5
+Koristeno,2177.0,159000.0,BMW,X6,Dizel,2021.0,Automatik,113000,3.0,250.0,4/5
+Koristeno,4565.0,7600.0,Fiat,Panda,Benzin,2013.0,Manuelni,176922,1.2,51.0,4/5
+Koristeno,1663.0,29900.0,Peugeot,308,Dizel,2015.0,Automatik,141000,2.0,133.0,4/5
+Koristeno,1916.0,129900.0,Audi,Q7,Dizel,2020.0,Automatik,153000,3.0,210.0,4/5
+Koristeno,3238.0,27000.0,Volkswagen,Phaeton,Dizel,2011.0,Automatik,290000,3.0,176.0,4/5
+Koristeno,4313.0,135000.0,Mercedes-Benz,GLE 350,Dizel,2020.0,Automatik,89000,3.0,200.0,4/5
+Koristeno,1057.0,9900.0,Volkswagen,Golf Plus,Benzin,2010.0,Manuelni,202000,1.4,114.0,4/5
+Koristeno,1474.0,12700.0,Skoda,Octavia,Dizel,2013.0,Automatik,263000,1.6,77.0,4/5
+Koristeno,687.0,4000.0,Volkswagen,Passat,Dizel,2002.0,Manuelni,28900,1.9,96.0,4/5
+Koristeno,4813.0,85000.0,BMW,X4,Dizel,2019.0,Automatik,158000,2.0,140.0,4/5
+Koristeno,317.0,13700.0,Volkswagen,Golf,Dizel,2010.0,Manuelni,172000,1.6,77.0,4/5
+Koristeno,1412.0,6600.0,Chevrolet,,Benzin,2011.0,Manuelni,98000,1.0,50.0,4/5
+Koristeno,7360.0,10999.0,Audi,A1,Benzin,2011.0,Manuelni,189000,1.2,63.0,2/3
+Koristeno,2478.0,82000.0,Audi,A5,Dizel,2022.0,Automatik,114000,2.0,150.0,4/5
+Koristeno,643.0,10999.0,Volkswagen,Passat,Dizel,2010.0,Automatik,271000,2.0,103.0,4/5
+Koristeno,932.0,,BMW,635,Dizel,2009.0,Automatik,201500,3.0,210.0,2/3
+Koristeno,3587.0,12700.0,Volkswagen,Golf,Dizel,2009.0,Manuelni,312000,2.0,81.0,4/5
+Koristeno,3848.0,44900.0,Toyota,RAV 4,Benzin,2018.0,Automatik,161000,2.5,114.0,4/5
+Koristeno,295.0,,Volkswagen,Polo,Dizel,2011.0,Manuelni,238000,1.6,66.0,4/5
+Koristeno,356.0,3800.0,Volkswagen,Golf,Dizel,2000.0,Manuelni,380000,1.9,74.0,2/3
+Koristeno,389.0,,Audi,A3,Dizel,2011.0,Manuelni,240995,1.6,77.0,4/5
+Koristeno,3596.0,24900.0,Volkswagen,Tiguan,Dizel,2011.0,Manuelni,229000,2.0,103.0,4/5
+Koristeno,5637.0,16800.0,Volkswagen,Golf,Dizel,2013.0,Manuelni,280000,1.6,77.0,4/5
+Koristeno,129.0,,Peugeot,3008,Dizel,2020.0,Automatik,104783,1.5,95.0,4/5
+Koristeno,1643.0,,Toyota,Aygo,Benzin,2012.0,Manuelni,239000,1.0,66.0,2/3
+Koristeno,5338.0,,Audi,A6,Dizel,2013.0,Automatik,270000,2.0,130.0,4/5
+Koristeno,4320.0,13800.0,Dacia,Dokker,Benzin,2016.0,Manuelni,123000,1.2,77.0,4/5
+Koristeno,1163.0,21700.0,Seat,Ibiza,Dizel,2019.0,Manuelni,108200,1.6,70.0,4/5
+Koristeno,2810.0,,Skoda,Octavia,Dizel,2018.0,Automatik,255913,2.0,110.0,4/5
+Koristeno,26311.0,24900.0,Ford,Kuga,Dizel,2013.0,Automatik,246000,2.0,120.0,4/5
+Koristeno,5841.0,38490.0,Peugeot,3008,Dizel,2019.0,Automatik,167770,1.5,96.0,4/5
+Koristeno,1280.0,34000.0,Volkswagen,Golf,Benzin,2016.0,Automatik,151000,2.0,162.0,4/5
+Koristeno,1624.0,37990.0,Volkswagen,Tiguan,Dizel,2018.0,Automatik,345000,2.0,110.0,4/5
+Koristeno,23661.0,10500.0,Volkswagen,Passat,Benzin,2006.0,Manuelni,220000,2.0,110.0,4/5
+Koristeno,9355.0,29990.0,Audi,Q5,Dizel,2010.0,Automatik,285000,3.0,176.0,4/5
+Koristeno,7734.0,28999.0,BMW,530,Dizel,2011.0,Automatik,250000,3.0,190.0,4/5
+Koristeno,700.0,26990.0,Skoda,Octavia,Dizel,2019.0,Manuelni,152000,1.6,85.0,4/5
+Koristeno,5414.0,25000.0,Mercedes-Benz,ML 300,Dizel,2011.0,Automatik,273000,3.0,150.0,4/5
+Koristeno,3150.0,24750.0,Audi,Q5,Dizel,2009.0,Automatik,240300,3.0,176.0,4/5
+Koristeno,3637.0,,Volkswagen,Passat,Dizel,2012.0,Manuelni,222000,1.6,77.0,4/5
+Koristeno,2073.0,29900.0,Smart,ForTwo,Elektro,2021.0,Automatik,23000,1.0,60.0,2/3
+Koristeno,437.0,31500.0,Volkswagen,Sharan,Dizel,2016.0,Automatik,243000,2.0,110.0,4/5
+Koristeno,1257.0,9400.0,Audi,A4,Plin,2005.0,Manuelni,310000,1.8,120.0,4/5
+Koristeno,10724.0,6200.0,Volkswagen,Golf,Benzin,2003.0,Manuelni,208000,1.6,85.0,4/5
+Novo,1607.0,39887.0,Volkswagen,Polo,Benzin,2024.0,Manuelni,0,1.0,70.0,4/5
+Koristeno,1538.0,8250.0,Citroen,C4 Picasso,Dizel,2014.0,Manuelni,150233,1.6,68.0,4/5
+Novo,1229.0,71603.0,Volkswagen,Golf,Dizel,2024.0,Automatik,0,2.0,110.0,4/5
+Koristeno,1611.0,18900.0,Volkswagen,Tiguan,Dizel,2011.0,Manuelni,287000,2.0,125.0,4/5
+Koristeno,2452.0,85000.0,Volkswagen,Tiguan,Dizel,2023.0,Automatik,6076,2.0,110.0,4/5
+Koristeno,1068.0,3999.0,Volvo,V40,Dizel,2001.0,Manuelni,300000,1.9,85.0,4/5
+Novo,11072.0,,Volkswagen,Arteon,Dizel,2023.0,Automatik,0,2.0,147.0,4/5
+Koristeno,1124.0,,Mercedes-Benz,A 180,Dizel,2018.0,Automatik,238000,1.6,85.0,4/5
+Koristeno,450.0,4800.0,Seat,Ibiza,Benzin,2003.0,Automatik,180000,1.4,55.0,2/3
+Koristeno,651.0,62980.0,Hyundai,Tucson,Benzin,2021.0,Automatik,43232,1.6,132.0,4/5
+Koristeno,3884.0,22800.0,Volkswagen,Golf,Dizel,2014.0,Manuelni,194000,2.0,110.0,4/5
+Koristeno,273.0,32000.0,BMW,318,Dizel,2015.0,Automatik,204961,1.8,100.0,4/5
+Novo,1237.0,59515.0,Volkswagen,,Benzin,2024.0,Automatik,0,1.5,110.0,4/5
+Koristeno,774.0,14750.0,Volkswagen,Golf,Dizel,2012.0,Manuelni,218000,1.6,77.0,4/5
+Koristeno,7175.0,29990.0,Audi,Q3,Dizel,2013.0,Manuelni,229000,2.0,103.0,4/5
+Koristeno,211.0,10950.0,Skoda,Fabia,Dizel,2011.0,Manuelni,170000,1.6,77.0,4/5
+Koristeno,3934.0,16399.0,BMW,530,Dizel,2008.0,Automatik,337000,3.0,145.0,4/5
+Novo,1237.0,43197.0,Volkswagen,Polo,Benzin,2024.0,Automatik,0,1.0,70.0,4/5
+Koristeno,21142.0,83900.0,BMW,X4,Dizel,2018.0,Automatik,69585,2.0,140.0,4/5
+Koristeno,1289.0,24900.0,Renault,Scenic,Dizel,2017.0,Manuelni,149000,1.5,81.0,4/5
+Koristeno,13050.0,36900.0,Skoda,Karoq,Dizel,2018.0,Automatik,184212,2.0,110.0,4/5
+Koristeno,88.0,,Volvo,XC40,Dizel,2019.0,Automatik,106529,2.0,110.0,4/5
+Koristeno,1690.0,25700.0,BMW,520,Dizel,2010.0,Automatik,199000,2.0,135.0,4/5
+Koristeno,5046.0,25900.0,Skoda,Superb,Dizel,2017.0,Manuelni,240000,1.6,88.0,4/5
+Novo,175.0,12700.0,Peugeot,3008,Dizel,2011.0,Manuelni,224000,2.0,110.0,4/5
+Koristeno,6427.0,24150.0,Volkswagen,Passat,Dizel,2015.0,Manuelni,250000,1.6,88.0,4/5
+Koristeno,11451.0,16499.0,Audi,A4,Dizel,2010.0,Manuelni,213000,2.0,88.0,4/5
+Koristeno,1222.0,15400.0,Skoda,Octavia,Dizel,2014.0,Automatik,160000,1.6,77.0,4/5
+Koristeno,1096.0,21500.0,Volkswagen,Touran,Dizel,2012.0,Automatik,260000,2.0,103.0,4/5
+Koristeno,3030.0,,Kia,Sportage,Dizel,2017.0,Automatik,217000,1.7,104.0,4/5
+Koristeno,798.0,29000.0,BMW,330,Dizel,2009.0,Automatik,256850,3.0,170.0,2/3
+Koristeno,859.0,6650.0,Seat,Ibiza,Dizel,2004.0,Manuelni,280125,1.9,47.0,2/3
+Koristeno,13297.0,21500.0,Toyota,RAV 4,Dizel,2010.0,Automatik,141000,2.2,110.0,4/5
+Koristeno,1524.0,23499.0,Audi,A5,Dizel,2010.0,Manuelni,243000,2.0,125.0,4/5
+Koristeno,26785.0,29990.0,BMW,X3,Dizel,2013.0,Manuelni,232000,2.0,135.0,4/5
+Koristeno,174.0,5500.0,Opel,Astra,Dizel,2005.0,Manuelni,330000,1.7,74.0,4/5
+Koristeno,8450.0,79990.0,Volkswagen,Touareg,Dizel,2018.0,Automatik,254000,3.0,210.0,4/5
+Koristeno,1237.0,9500.0,Volkswagen,Golf,Dizel,2009.0,Manuelni,240000,2.0,81.0,4/5
+Koristeno,97.0,36900.0,Peugeot,3008,Dizel,2019.0,Automatik,156000,1.5,96.0,4/5
+Koristeno,846.0,2500.0,Renault,Scenic,Dizel,2005.0,Manuelni,251431,1.5,74.0,4/5
+Koristeno,1934.0,28950.0,Ford,Mondeo,Dizel,2019.0,Manuelni,180000,2.0,110.0,4/5
+Koristeno,6933.0,44990.0,Audi,SQ5,Dizel,2014.0,Automatik,214400,3.0,230.0,4/5
+Koristeno,2494.0,5950.0,Skoda,Octavia,Dizel,2002.0,Manuelni,322000,1.9,66.0,4/5

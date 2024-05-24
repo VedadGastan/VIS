@@ -14,7 +14,7 @@ driver = webdriver.Edge(service=service, options=options)
 
 links = []
 
-f = open("links.txt", "w")
+f = open("links_2.txt", "w")
 
 for i in range(1, 51):
     driver.get(website + str(i))
