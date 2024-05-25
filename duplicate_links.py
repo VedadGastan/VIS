@@ -21,5 +21,5 @@ def remove_duplicate_lines(file_path):
         print(f"An error occurred: {e}")
 
 # Example usage
-file_path = 'links_two.txt'
+file_path = 'links.txt'
 remove_duplicate_lines(file_path)

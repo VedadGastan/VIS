@@ -25,14 +25,13 @@ def modify_kilometraza(df):
     df['Kilometraza'] = df['Kilometraza'].apply(transform_kilometraza)
     return df
 
-def merge_csv_files(file1, file2, file3, output_file):
+def merge_csv_files(file1, file2, output_file):
     # Read the CSV files into pandas dataframes
     df1 = pd.read_csv(file1)
     df2 = pd.read_csv(file2)
-    df3 = pd.read_csv(file3)
 
     # Concatenate the dataframes
-    combined_df = pd.concat([df1, df2, df3], ignore_index=True)
+    combined_df = pd.concat([df1, df2], ignore_index=True)
 
     # Clean the combined dataframe
     clean_df = clean_dataframe(combined_df)
@@ -44,10 +43,9 @@ def merge_csv_files(file1, file2, file3, output_file):
     modified_df.to_csv(output_file, index=False)
     
 # Specify the paths to the input and output files
-file1 = 'data_1.csv'
-file2 = 'data_2.csv'
-file3 = 'data_3.csv'
+file1 = 'data_386.csv'
+file2 = 'data_old.csv'
 output_file = 'data.csv'
 
 # Merge the CSV files
-merge_csv_files(file1, file2, file3, output_file)
+merge_csv_files(file1, file2, output_file)

@@ -2,12 +2,15 @@ from bs4 import BeautifulSoup
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.edge.options import Options
+from selenium.webdriver.edge.service import Service
 import time
 import csv
 from selenium.common.exceptions import TimeoutException
 
-with open('links_new.txt', 'r') as file:
+with open('links_unique.txt', 'r') as file:
     links = file.read().splitlines()
+
+path = 'edgedriver_win64/msedgedriver.exe'
 
 stanje_data = []
 pregledi_data = []
@@ -42,9 +45,9 @@ def process_kilometraza(kilometraza_text):
 
 options = Options()
 options.headless = True 
-driver = webdriver.Edge(options=options)
+service = Service(executable_path=path)
+driver = webdriver.Edge(service=service, options=options)
 driver.set_page_load_timeout(30)
-
 
 count = 0
 
@@ -146,7 +149,7 @@ for url in links:
         print(f"Timeout occurred while loading URL: {url}")
         continue
     count += 1
-    if count % 200 == 0 or count == 1362:  # Save progress for every 200 links
+    if (count % 200 == 0) or (count == len(links)):
         data = {
             'Stanje': stanje_data,
             'Pregledi': pregledi_data,
@@ -162,7 +165,6 @@ for url in links:
             'Broj vrata': broj_vrata_data
         }
 
-        # Verify all lists have the same length
         min_length = min(map(len, data.values()))
         for key in data:
             data[key] = data[key][:min_length]
@@ -171,7 +173,7 @@ for url in links:
         df.to_csv(f'data_{count}.csv', index=False, quoting=csv.QUOTE_NONNUMERIC)
         
         driver.quit()
-        driver = webdriver.Edge(options=options)
+        driver = webdriver.Edge(service=service, options=options)
         driver.set_page_load_timeout(30)
 
 driver.quit()
