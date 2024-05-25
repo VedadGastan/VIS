@@ -6,7 +6,7 @@ import time
 import csv
 from selenium.common.exceptions import TimeoutException
 
-with open('links_two.txt', 'r') as file:
+with open('links_new.txt', 'r') as file:
     links = file.read().splitlines()
 
 stanje_data = []
@@ -44,6 +44,9 @@ options = Options()
 options.headless = True 
 driver = webdriver.Edge(options=options)
 driver.set_page_load_timeout(30)
+
+
+count = 0
 
 for url in links:
     try:
@@ -142,28 +145,33 @@ for url in links:
     except TimeoutException:
         print(f"Timeout occurred while loading URL: {url}")
         continue
+    count += 1
+    if count % 200 == 0 or count == 1362:  # Save progress for every 200 links
+        data = {
+            'Stanje': stanje_data,
+            'Pregledi': pregledi_data,
+            'Cijena': cijena_data,
+            'Proizvodjac': proizvodjac_data,
+            'Model': model_data,
+            'Gorivo': gorivo_data,
+            'Godiste': godiste_data,
+            'Transmisija': transmisija_data,
+            'Kilometraza': kilometraza_data,
+            'Kubikaza': kubikaza_data,
+            'Snaga motora (KW)': snaga_motora_data,
+            'Broj vrata': broj_vrata_data
+        }
+
+        # Verify all lists have the same length
+        min_length = min(map(len, data.values()))
+        for key in data:
+            data[key] = data[key][:min_length]
+
+        df = pd.DataFrame(data)
+        df.to_csv(f'data_{count}.csv', index=False, quoting=csv.QUOTE_NONNUMERIC)
+        
+        driver.quit()
+        driver = webdriver.Edge(options=options)
+        driver.set_page_load_timeout(30)
 
 driver.quit()
-
-data = {
-    'Stanje': stanje_data,
-    'Pregledi': pregledi_data,
-    'Cijena': cijena_data,
-    'Proizvodjac': proizvodjac_data,
-    'Model': model_data,
-    'Gorivo': gorivo_data,
-    'Godiste': godiste_data,
-    'Transmisija': transmisija_data,
-    'Kilometraza': kilometraza_data,
-    'Kubikaza': kubikaza_data,
-    'Snaga motora (KW)': snaga_motora_data,
-    'Broj vrata': broj_vrata_data
-}
-
-# Verify all lists have the same length
-min_length = min(map(len, data.values()))
-for key in data:
-    data[key] = data[key][:min_length]
-
-df = pd.DataFrame(data)
-df.to_csv('data_3.csv', index=False, quoting=csv.QUOTE_NONNUMERIC)
