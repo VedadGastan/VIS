@@ -6,8 +6,8 @@ Analysis of the used car market in BiH using data scraped from [olx.ba](https://
 
 This project is split into two repositories:
 
-- **[VIS-Zadaca-2](https://github.com/VedadGastan/VIS-Zadaca-2)** — Web scraper that collects car listings from olx.ba and saves them to CSV
-- **[VIS](https://github.com/VedadGastan/VIS)** — Data analysis notebook (this repo)
+- Web scraper that collects car listings from olx.ba and saves them to CSV
+- Data analysis notebook (this repo)
 
 ## Data Collection
 
