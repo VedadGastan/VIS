@@ -4,7 +4,7 @@ Analysis of the used car market in BiH using data scraped from [olx.ba](https://
 
 ## Project Structure
 
-This project is split into two repositories:
+This project is split into two parts:
 
 - Web scraper that collects car listings from olx.ba and saves them to CSV
 - Data analysis notebook (this repo)
